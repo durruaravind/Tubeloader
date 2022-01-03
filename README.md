@@ -3,14 +3,16 @@
 # Date: 30 December 2021
 
 # Description:
-An easy to use 'Advanced Youtube Downloader' for downloading mp4/mp3 files from Youtube via GUI using Python libraries - Tkinter and Pytube. You can download either mp4 or mp3 or both. Downloaded files are saved in separate folders - Downloaded Videos and Downloaded Audios.
+An easy to use 'Advanced Youtube Downloader' for downloading mp4/mp3 files from Youtube via GUI using Python libraries - Tkinter and Pytube.
 
 # Details:
 1. After installing python and pip, install the pre-requisite packages from pre-requisites.txt file.
 
     Command: pip install -r pre-requisites.txt
 
-2. File - "history.txt" keeps record of the downloads and provides a link to download the video thumbnail image.
+2. You can download either mp4 or mp3 or both. Downloaded files are saved in separate folders - Downloaded Videos and Downloaded Audios.
+
+3. File - "history.txt" keeps record of the downloads and provides a link to download the video thumbnail image.
 
 # References:
 1. CodeWithHarry YouTube Tutorials
