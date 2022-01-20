@@ -6,13 +6,15 @@
 An easy to use 'Advanced Youtube Downloader' for downloading mp4/mp3 files from Youtube via GUI using Python libraries - Tkinter and Pytube.
 
 # Details:
-1. Execute the exe file - "ytb-downloader - Shortcut". If it does not execute go to step 2 or else skip step 2.
+1. Open Command Prompt and navigate to the project folder named Tubeloder. Paste the below commands.
+    Command:
+    1. pip install pyinstaller
+    2. pyinstaller -w ytb-downloder.py
+    This will create an exe file named "ytb-downloader.exe" in the path: '...\Tubeloader\dist\ytb-downloader\'. Now run the application and use it.
 
-2. Open the project in your code editor. After installing python and pip, install the pre-requisite packages from pre-requisites.txt file.
+    If the above steps don't work then, open the project in a code editor like Vscode. After installing python and pip, install the pre-requisite packages from pre-requisites.txt file using the command: "pip install -r pre-requisites.txt". Then execute the python project and use it.
 
-    Command: pip install -r pre-requisites.txt
-
-2. You can download either mp4 or mp3 or both. Downloaded files are saved in folder paths (MP4 PATH AND MP3 PATH) given by the user.
+2. You can download either mp4 or mp3 or both. Downloaded files are saved in folder paths (MP4 PATH and MP3 PATH) given by the user.
 
 3. File - "history.txt" keeps record of the downloads and provides a link to download the video thumbnail image.
 
