@@ -6,7 +6,7 @@
 An easy to use 'Advanced Youtube Downloader' for downloading mp4/mp3 files from Youtube via GUI using Python libraries - Tkinter and Pytube.
 
 # Details:
-1. Open Command Prompt and navigate to the project folder named Tubeloder. Paste the below commands.
+1. After cloning/downloading navigate to the Tubeloader project foler. Open Command Prompt by typing "cmd" in the location bar at top of the project folder. Paste the below commands.
     Command:
     1. pip install pyinstaller
     2. pyinstaller -w ytb-downloder.py
