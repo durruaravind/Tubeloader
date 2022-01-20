@@ -10,6 +10,7 @@ An easy to use 'Advanced Youtube Downloader' for downloading mp4/mp3 files from 
     Command:
     1. pip install pyinstaller
     2. pyinstaller -w ytb-downloder.py
+    
     This will create an exe file named "ytb-downloader.exe" in the path: '...\Tubeloader\dist\ytb-downloader\'. Now run the application and use it.
 
     If the above steps don't work then, open the project in a code editor like Vscode. After installing python and pip, install the pre-requisite packages from pre-requisites.txt file using the command: "pip install -r pre-requisites.txt". Then execute the python project and use it.
