@@ -1,16 +1,17 @@
-# Project : Tubeloader
+# Project: Tubeloader
 
 # Description
-An easy to use desktop app for downloading mp4/mp3 files from Youtube.
+An easy-to-use desktop app for downloading mp4/mp3 files from Youtube.
 
 # Pre-requisites
     1. Install python.
     2. Run the command: "pip install -r pre-requisites.txt" in the terminal.
-    Then execute the python project in code editor and use.
+    Then execute the Python project in the code editor and use it.
 
 # Note
-User can download either mp4 or mp3 or both. Downloaded files are saved in folder paths (MP4 PATH and MP3 PATH) given by the user.
-File - "history.txt" keeps record of the downloads and provides a link to download the video thumbnail image.
+Users can download either mp4 or mp3 or both. Downloaded files are saved in folder paths (MP4 PATH and MP3 PATH) given by the user.
+
+File - "history.txt" keeps a record of the downloads and provides a link to download the video thumbnail image.
 
 # References:
 1. CodeWithHarry YouTube Tutorials
